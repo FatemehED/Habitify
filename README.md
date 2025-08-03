@@ -48,7 +48,7 @@ ctk.set_default_color_theme("path/to/breeze.json")
 
 You can download the latest Windows executable from the [Releases](https://github.com/FatemehED/Habitify/releases) section.
 
-➡️ [Download Habitify v1.0.0 (.exe)](https://github.com/FatemehED/Habitify/releases/download/v1.0.0/Habitify.exe)
+➡️ [Download Habitify v1.0.0 (.exe)]([https://github.com/FatemehED/Habitify/releases/download/v1.0.0/Habitify.exe](https://github.com/FatemehED/Habitify/releases/download/v1.0.0/Habitify.exe))
 
 
 💖 Built with Love
